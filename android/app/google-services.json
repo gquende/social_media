@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713293611690",
+    "project_id": "salamandra-vipas",
+    "storage_bucket": "salamandra-vipas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713293611690:android:19be80cebca03fcac0c6d3",
+        "android_client_info": {
+          "package_name": "com.example.social_media"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713293611690-l7n3tvn32q9r3gasbje02qnq1bmrhakq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjrk7odzyYO7m7qUrBfvlJnqXWDp6SY1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713293611690-l7n3tvn32q9r3gasbje02qnq1bmrhakq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

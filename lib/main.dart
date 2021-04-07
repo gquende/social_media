@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Salamandra',
       debugShowCheckedModeBanner: false,
-      home: Text("Hi"),
+      home: Text("Test"),
     );
   }
 }
